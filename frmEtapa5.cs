@@ -35,8 +35,8 @@ namespace pryCalvetEtapa5
 
         private void btnCrear_Click(object sender, EventArgs e)
         {
-            Random random = new Random(); //Numero que esta cambiando constantemente
-            int Numero = random.Next(1, 4); //"Numero" toma el valor en ese instante y lo guarda
+            Random random = new Random(); //Random esta cambiando constantemente
+            int Numero = random.Next(1, 4); //"Numero" toma el valor en ese instante y lo guarda, entre valores determinados
 
             switch (Numero)
             {
