@@ -1,6 +1,6 @@
 ﻿namespace pryCalvetEtapa5
 {
-    partial class Form1
+    partial class frmEtapa5
     {
         /// <summary>
         /// Variable del diseñador necesaria.
